@@ -29,3 +29,7 @@ La reproducibilidad completa en un entorno nuevo sigue en verificación.
 
 El repositorio del proyecto es privado y requiere acceso autorizado:
 [PapaSmart-U2](https://github.com/yurinscoaquira/PapaSmart-U2).
+
+## Dimension U2 de Mijael Yurins
+
+- [Almacenamiento: pipeline, tablero, pronostico y evidencias](almacenamiento.md)
